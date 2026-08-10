@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+*.aux
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
